@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Blessing-portfolio/static/css/main.bef72c7e.css",
-    "main.js": "/Blessing-portfolio/static/js/main.976dc4d3.js",
+    "main.css": "/Blessing-portfolio/static/css/main.7438d9f4.css",
+    "main.js": "/Blessing-portfolio/static/js/main.2d6bcac6.js",
     "static/js/787.e3835ec5.chunk.js": "/Blessing-portfolio/static/js/787.e3835ec5.chunk.js",
     "static/media/partnership-handshake-innovation-corporate-business-concept.jpg": "/Blessing-portfolio/static/media/partnership-handshake-innovation-corporate-business-concept.0a877aefb148e6a128de.jpg",
     "static/media/Blessing-removebg-preview.png": "/Blessing-portfolio/static/media/Blessing-removebg-preview.8de57ba7f36eca148f8a.png",
@@ -9,12 +9,12 @@
     "static/media/logo-removebg-preview.png": "/Blessing-portfolio/static/media/logo-removebg-preview.3d3c7a9cef436e08af04.png",
     "static/media/pngwing.com (3).png": "/Blessing-portfolio/static/media/pngwing.com (3).548f1cfd65ae2d062126.png",
     "index.html": "/Blessing-portfolio/index.html",
-    "main.bef72c7e.css.map": "/Blessing-portfolio/static/css/main.bef72c7e.css.map",
-    "main.976dc4d3.js.map": "/Blessing-portfolio/static/js/main.976dc4d3.js.map",
+    "main.7438d9f4.css.map": "/Blessing-portfolio/static/css/main.7438d9f4.css.map",
+    "main.2d6bcac6.js.map": "/Blessing-portfolio/static/js/main.2d6bcac6.js.map",
     "787.e3835ec5.chunk.js.map": "/Blessing-portfolio/static/js/787.e3835ec5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bef72c7e.css",
-    "static/js/main.976dc4d3.js"
+    "static/css/main.7438d9f4.css",
+    "static/js/main.2d6bcac6.js"
   ]
 }
